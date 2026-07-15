@@ -1,0 +1,6 @@
+## Project Summary
+This project focuses on practicing SQL for data analysis using a healthcare dataset. 
+The objective was to answer common business questions and demonstrate proficiency in writing efficient SQL queries.
+Although the dataset was relatively balanced and did not reveal strong trends or anomalies, 
+it served as a practical resource for applying SQL concepts such as filtering, aggregation, grouping, sorting, 
+and conditional logic.
